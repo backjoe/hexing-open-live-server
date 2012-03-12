@@ -140,16 +140,16 @@
 			Name="Source"
 			Filter="cpp;c;cxx;rc;def;r;odl;idl;hpj;bat">
 			<File
-				RelativePath=".\aac.h">
+				RelativePath="..\..\RtspService\aac.h">
 			</File>
 			<File
-				RelativePath=".\h264.h">
+				RelativePath="..\..\RtspService\h264.h">
 			</File>
 			<File
-				RelativePath="h264_slice.h">
+				RelativePath="..\..\RtspService\h264_slice.h">
 			</File>
 			<File
-				RelativePath="h264_sps.h">
+				RelativePath="..\..\RtspService\h264_sps.h">
 			</File>
 			<File
 				RelativePath="..\..\RtspService\RtspService.cpp">
@@ -169,7 +169,7 @@
 				</FileConfiguration>
 			</File>
 			<File
-				RelativePath="RtspService.h">
+				RelativePath="..\..\RtspService\RtspService.h">
 			</File>
 			<File
 				RelativePath="..\..\RtspService\RtspService_t.cpp">
@@ -189,7 +189,7 @@
 				</FileConfiguration>
 			</File>
 			<File
-				RelativePath="RtspService_t.h">
+				RelativePath="..\..\RtspService\RtspService_t.h">
 			</File>
 			<File
 				RelativePath="..\..\RtspService\StdAfx.cpp">
@@ -211,10 +211,10 @@
 				</FileConfiguration>
 			</File>
 			<File
-				RelativePath="StdAfx.h">
+				RelativePath="..\..\RtspService\StdAfx.h">
 			</File>
 			<File
-				RelativePath="vlc_bits.h">
+				RelativePath="..\..\RtspService\vlc_bits.h">
 			</File>
 		</Filter>
 		<Filter
