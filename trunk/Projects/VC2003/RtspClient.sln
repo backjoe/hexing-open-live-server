@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RtspClient", "RtspClient.vcproj", "{06A63DE6-D6B4-4BF5-B43D-FC859AAC58F3}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RtspService", "RtspService.vcproj", "{DF0D4493-BC86-40DA-947E-489B26346619}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{06A63DE6-D6B4-4BF5-B43D-FC859AAC58F3}.Debug.ActiveCfg = Debug|Win32
+		{06A63DE6-D6B4-4BF5-B43D-FC859AAC58F3}.Debug.Build.0 = Debug|Win32
+		{06A63DE6-D6B4-4BF5-B43D-FC859AAC58F3}.Release.ActiveCfg = Release|Win32
+		{06A63DE6-D6B4-4BF5-B43D-FC859AAC58F3}.Release.Build.0 = Release|Win32
+		{DF0D4493-BC86-40DA-947E-489B26346619}.Debug.ActiveCfg = Debug|Win32
+		{DF0D4493-BC86-40DA-947E-489B26346619}.Debug.Build.0 = Debug|Win32
+		{DF0D4493-BC86-40DA-947E-489B26346619}.Release.ActiveCfg = Release|Win32
+		{DF0D4493-BC86-40DA-947E-489B26346619}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06A63DE6-D6B4-4BF5-B43D-FC859AAC58F3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{06A63DE6-D6B4-4BF5-B43D-FC859AAC58F3}.Debug|Win32.Build.0 = Debug|Win32
+		{06A63DE6-D6B4-4BF5-B43D-FC859AAC58F3}.Release|Win32.ActiveCfg = Release|Win32
+		{06A63DE6-D6B4-4BF5-B43D-FC859AAC58F3}.Release|Win32.Build.0 = Release|Win32
+		{DF0D4493-BC86-40DA-947E-489B26346619}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DF0D4493-BC86-40DA-947E-489B26346619}.Debug|Win32.Build.0 = Debug|Win32
+		{DF0D4493-BC86-40DA-947E-489B26346619}.Release|Win32.ActiveCfg = Release|Win32
+		{DF0D4493-BC86-40DA-947E-489B26346619}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
