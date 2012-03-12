@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RtspClient">
+</Property><Property Name="解决方案文件" Value="D:\Rtsp\RtspClient.sln">
+</Property><Property Name="Date" Value="2012年3月12日 星期一">
+</Property><Property Name="Time" Value="15:22">
+</Property></Properties><Event ErrorLevel="0" Project="RtspClient" Source="RtspClient\RtspClient.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="RtspClient" Source="RtspClient\RtspClient.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RtspService" Source="RtspService\RtspService.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="RtspService" Source="RtspService\RtspService.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RtspClient.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="RtspClient.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RtspClient", "RtspClient.vcproj", "{06A63DE6-D6B4-4BF5-B43D-FC859AAC58F3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RtspService", "RtspService.vcproj", "{DF0D4493-BC86-40DA-947E-489B26346619}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06A63DE6-D6B4-4BF5-B43D-FC859AAC58F3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{06A63DE6-D6B4-4BF5-B43D-FC859AAC58F3}.Debug|Win32.Build.0 = Debug|Win32
+		{06A63DE6-D6B4-4BF5-B43D-FC859AAC58F3}.Release|Win32.ActiveCfg = Release|Win32
+		{06A63DE6-D6B4-4BF5-B43D-FC859AAC58F3}.Release|Win32.Build.0 = Release|Win32
+		{DF0D4493-BC86-40DA-947E-489B26346619}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DF0D4493-BC86-40DA-947E-489B26346619}.Debug|Win32.Build.0 = Debug|Win32
+		{DF0D4493-BC86-40DA-947E-489B26346619}.Release|Win32.ActiveCfg = Release|Win32
+		{DF0D4493-BC86-40DA-947E-489B26346619}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
